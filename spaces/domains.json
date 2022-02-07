@@ -12,6 +12,7 @@
   "vote.chainscore.finance": "chainscore.eth",
   "theartistdao.com": "theartistdao.eth",
   "vote.losercoin.dao": "losercoin-lowb.eth",
+  "vote.songadao.org": "songadao.eth",
   "vote.theanimal.farm": "theanimalfarm.eth",
   "vote.glmrapes.com": "glmrapes.eth",
   "vote.paraswap.network": "paraswap-dao.eth",
@@ -468,6 +469,7 @@
   "vote.feistydoge.art": "feistydao.eth",
   "vote.shunkakinoki.com": "shunkakinoki.eth",
   "vote.hepa.finance": "hepa.eth",
+  "vote.yakuzainc.io": "yakuzaincdao.eth",
   "gov.moonfarm.in": "moonswpadex.eth",
   "vote.liquidifty.io": "liquidifty.eth",
   "gov.moonswap.tech": "moonswpadex.eth",
@@ -529,6 +531,7 @@
   "vote.huckleberry.finance": "huckleberrydex.eth",
   "vote.hectordao.com": "hectordao.eth",
   "gov.tethys.finance": "tethysswap.eth",
+  "vote.darkmatterdefi.com": "dmdarkmatter.eth",
   "gov.fxcm.xyz": "symbolspace.eth",
   "dao.fxcm.xyz": "metauniversecapital.eth",
   "gov.alluo.io": "alluo.eth",
@@ -546,5 +549,6 @@
   "vote.guttercatgang.com": "gcgdao.eth",
   "vote.pagedao.org": "pagedao.eth",
   "gov.fries.fund": "friesdao.eth",
-  "vote.starsharks.com": "starsharks.com"
+  "vote.undisclosedcollectors.com": "undisclosedcollectors.eth",  
+  "vote.starsharks.com": "starsharks.com"  
 }
